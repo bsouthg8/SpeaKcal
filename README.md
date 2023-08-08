@@ -1,2 +1,2 @@
 # SpeaKcal
-A calorie tracking mobile app made for COMP602 (Software Development Practice)
+A calorie tracking mobile app project made by university students.
