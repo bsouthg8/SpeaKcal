@@ -1,7 +1,7 @@
 package com.example.speakcalapp;
 
 public class JournalEntry {
-
+//
     int entryID;
     String date;
     String foodItem;
